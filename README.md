@@ -39,4 +39,4 @@ Faith-forward | Startup-scarred | Still building.
 
 ## Tags
 
-#bitcoin #nostr #faith #victoriousgospel #proofOfWork #startupbuilder #bitcoinerforgood #sovereignstacker
+**Tags:** #bitcoin #nostr #faith #victoriousgospel #proofOfWork #startupbuilder #bitcoinerforgood #sovereignstacker
