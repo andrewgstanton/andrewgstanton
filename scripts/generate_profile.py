@@ -2,7 +2,7 @@ import markdown
 from pathlib import Path
 
 # Paths
-base_path = Path(__file__).resolve().parent.parent
+base_path = Path("/app")	
 profile_md_path = base_path / "profile" / "bio.md"
 readme_path = base_path / "README.md"
 index_path = base_path / "docs" / "index.html"

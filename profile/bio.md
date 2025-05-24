@@ -4,6 +4,7 @@ Bitcoiner. Builder. Rooted in the Victorious Gospel.
 CTO @ StartNation | Founder: Golden Gate Group & Blue Planet Ventures
 
 Faith-forward | Startup-scarred | Still building.  
+
 📍 Following Jesus. Building with conviction. Betting on people.  
 🙏 Victorious Gospel believer  
 ⚡️ Proof of Work > Proof of Hype  
