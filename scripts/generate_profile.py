@@ -1,5 +1,8 @@
 import markdown
 from pathlib import Path
+from datetime import datetime
+	
+timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
 # Paths
 base_path = Path("/app")	
@@ -14,6 +17,10 @@ with open(profile_md_path, "r", encoding="utf-8") as f:
 # Generate README.md (direct copy)
 with open(readme_path, "w", encoding="utf-8") as f:
     f.write(profile_md)
+	
+readme_footer = f"\n---\n_Last generated: **{timestamp}**_\n"
+with open(readme_path, "a") as f:
+    f.write(readme_footer)
 
 # Generate index.html
 html_body = markdown.markdown(profile_md)
@@ -53,7 +60,16 @@ html_template = f"""<!DOCTYPE html>
 </section>
 </body>
 </html>"""
+	
+html_footer = f"""
+<footer>
+    <hr>
+    <small>Last generated: <strong>{timestamp}</strong></small>
+</footer>
+"""
+html_template = html_template.replace("</body>", f"{html_footer}</body>")
 
+	
 index_path.parent.mkdir(parents=True, exist_ok=True)
 
 with open(index_path, "w", encoding="utf-8") as f:
