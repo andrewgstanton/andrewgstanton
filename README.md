@@ -3,7 +3,7 @@
 Bitcoiner. Builder. Rooted in the Victorious Gospel.  
 CTO @ StartNation | Founder: Golden Gate Group & Blue Planet Ventures
 
-Faith-forward | Startup-scarred | Still building.  
+Faith-forward | Shaped by startups | Still building.  
 
 📍 Following Jesus. Building with conviction. Betting on people.  
 🙏 Victorious Gospel believer  
@@ -11,15 +11,19 @@ Faith-forward | Startup-scarred | Still building.
 📈 Equity trader. Aspiring Bitcoin contributor  
 🧠 35+ years in dev. Still learning. Still showing up
 
-## Startups I’ve Founded
+## 🏢 Companies I’ve Founded or Co-Founded
 
-- 🧭 MyContinuum – a sovereign signal dashboard to reclaim your digital life  
-  [https://tinyurl.com/24g27kjb](https://tinyurl.com/24g27kjb)
 - StartNation – equity-based accelerator (future Bitcoin integration possible)  
   [https://tinyurl.com/yt9689pq](https://tinyurl.com/yt9689pq)
 - Golden Gate Group Investments – real estate LLC with a Bitcoin-forward vision  
   [https://tinyurl.com/ynk95bvd](https://tinyurl.com/ynk95bvd)
 - Blue Planet Ventures – equities, risk, and responsibility
+
+## 🛠️ Active Projects
+
+- 🧭 MyContinuum – a sovereign signal dashboard to reclaim your digital life  
+  [https://tinyurl.com/24g27kjb](https://tinyurl.com/24g27kjb)
+
 
 ## Other Links
 
@@ -42,4 +46,4 @@ Faith-forward | Startup-scarred | Still building.
 `#bitcoin #nostr #faith #victoriousgospel #proofOfWork #startupbuilder #bitcoinerforgood #sovereignstacker`
 
 ---
-_Last generated: **2025-05-25 00:17 UTC**_
+_Last generated: **2025-06-05 20:25 UTC**_
