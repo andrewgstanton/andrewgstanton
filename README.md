@@ -15,9 +15,17 @@ Faith-forward | Shaped by startups | Still building.
 
 - StartNation – equity-based accelerator (future Bitcoin integration possible)  
   [https://tinyurl.com/yt9689pq](https://tinyurl.com/yt9689pq)
+
 - Golden Gate Group Investments – real estate LLC with a Bitcoin-forward vision  
-  [https://tinyurl.com/ynk95bvd](https://tinyurl.com/ynk95bvd)
+
+  nostr page -> [https://tinyurl.com/ynk95bvd](https://tinyurl.com/ynk95bvd) (Primal.net)
+  web site   -> [https://tinyurl.com/23w6nqe7](https://tinyurl.com/23w6nqe7) 
+
 - Blue Planet Ventures – equities, risk, and responsibility
+  [https://tinyurl.com/27c54aoh] (https://tinyurl.com/27c54aoh) 
+
+- Stanton Web Applications – Technology with a soul. Tools for the next economy.
+  [https://tinyurl.com/24bln5vg] (https://tinyurl.com/24bln5vg)
 
 ## 🛠️ Active Projects
 
@@ -46,4 +54,4 @@ Faith-forward | Shaped by startups | Still building.
 `#bitcoin #nostr #faith #victoriousgospel #proofOfWork #startupbuilder #bitcoinerforgood #sovereignstacker`
 
 ---
-_Last generated: **2025-06-05 20:25 UTC**_
+_Last generated: **2025-06-06 21:17 UTC**_
