@@ -48,6 +48,13 @@ Faith-forward | Shaped by startups | Still building.
 - Snort: [https://tinyurl.com/yryevvrd](https://tinyurl.com/yryevvrd)  
 - Coracle: [https://tinyurl.com/yv6lx6uz](https://tinyurl.com/yv6lx6uz)
 
+
+## PGP
+PGP fingerprint
+B480 CC98 7E0B AA6D 5962 EBAA BF2E 7F14 860D 3FB0
+Full key:
+https://andrewgstanton.com/pgp
+
 ## Tags
 
 `#bitcoin #nostr #faith #victoriousgospel #proofOfWork #startupbuilder #bitcoinerforgood #sovereignstacker`
