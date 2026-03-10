@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Andrew Stanton — PGP Public Key</title>
+<style>
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    max-width: 800px;
+    margin: 40px auto;
+    line-height: 1.6;
+    padding: 0 20px;
+}
+
+code, pre {
+    background: #f5f5f5;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+pre {
+    padding: 12px;
+    overflow-x: auto;
+}
+
+h1, h2 {
+    margin-top: 30px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Andrew G. Stanton — PGP Public Key</h1>
+
+<p>
+This page provides my OpenPGP public key for encrypted communication and
+signature verification.
+</p>
+
+<h2>Fingerprint</h2>
+
+<pre>
+B480 CC98 7E0B AA6D 5962 EBAA BF2E 7F14 860D 3FB0
+</pre>
+
+<h2>Download Public Key</h2>
+
+<p>
+<a href="andrew-stanton.asc">Download ASCII-armored public key</a>
+</p>
+
+<h2>Import Key</h2>
+
+<pre>
+gpg --import andrew-stanton.asc
+</pre>
+
+<h2>Verify Fingerprint</h2>
+
+<pre>
+gpg --fingerprint andrewgstanton@gmail.com
+</pre>
+
+<p>Expected output:</p>
+
+<pre>
+pub   ed25519
+      B480CC987E0BAA6D5962EBAABF2E7F14860D3FB0
+uid   Andrew G. Stanton &lt;andrewgstanton@gmail.com&gt;
+sub   cv25519
+</pre>
+
+<h2>Key Details</h2>
+
+<ul>
+<li>Primary key: ed25519 (signing / certification)</li>
+<li>Subkey: cv25519 (encryption)</li>
+<li>Created: 2026-03-10</li>
+</ul>
+
+<h2>Identity Links</h2>
+
+<ul>
+<li>Website: <a href="https://andrewgstanton.com">andrewgstanton.com</a></li>
+<li>Nostr: npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</li>
+<li>Continuum: <a href="https://mycontinuum.xyz">mycontinuum.xyz</a></li>
+</ul>
+
+<p>
+If you wish to send an encrypted message, import this key and encrypt using
+my email address.
+</p>
+
+</body>
+</html>
