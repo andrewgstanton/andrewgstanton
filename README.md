@@ -54,12 +54,11 @@ Faith-forward | Shaped by startups | Still building.
 ```
 B480 CC98 7E0B AA6D 5962 EBAA BF2E 7F14 860D 3FB0
 ```
-Full key:
-[https://andrewgstanton.com/pgp](https://andrewgstanton.com/pgp)
+Full key: - [https://andrewgstanton.com/pgp](https://andrewgstanton.com/pgp)
 
 ## Tags
 
 `#bitcoin #nostr #faith #victoriousgospel #proofOfWork #startupbuilder #bitcoinerforgood #sovereignstacker`
 
 ---
-_Last generated: **2026-03-10 19:45 UTC**_
+_Last generated: **2026-03-10 19:46 UTC**_
